@@ -17,16 +17,11 @@ This project is an advanced tool for analyzing and adjusting text based on diffe
 
 ## Installation
 
-1. Clone this repository:
-   ```
-   git clone https://github.com/yourusername/advanced-text-analyzer-adjuster.git
-   cd advanced-text-analyzer-adjuster
-   ```
+1. Clone this repository
+ 
 
-2. Install the required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
+2. Install the required dependencies
+
 
 3. Set up your OpenAI API key:
    - Create a `.env` file in the project root
