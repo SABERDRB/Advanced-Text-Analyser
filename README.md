@@ -1,4 +1,4 @@
-# Advanced Text Analyzer and Adjuster
+# Advanced Text Analyzer 
 
 This project is an advanced tool for analyzing and adjusting text based on different English proficiency levels (CEFR levels: A1, A2, B1, B2). It provides a user-friendly interface for generating level-appropriate texts, analyzing existing texts, and adjusting texts to different proficiency levels.
 
